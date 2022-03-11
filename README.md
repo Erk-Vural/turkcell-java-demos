@@ -1,2 +1,2 @@
 # turkcell-java-bootcamp
-turkcell-java-bootcamp worksops, pairworks, exercises.
+turkcell-java-bootcamp workshops, pairworks, exercises.
